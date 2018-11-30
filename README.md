@@ -2,7 +2,7 @@
 NOTE: this following text is a copy of the beginning of my program 
 which is called "verif_temps3_for_mooc.py". 
 I explain you the context and I tried to summarize what each function does.
-The program really starts with line "# Different imports:"
+The program really starts at line 94 with "# Different imports:"
 
 
 # Preamble:
