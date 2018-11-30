@@ -35,7 +35,7 @@ and an email address (with the same string after the '@').
 It works but it can be improved too, I will modify it later.
 """
 
-# Concerning this program:
+# About this program:
 """
 Now I'm doing a house program to check that sample numbers have not been
 analyzed before, because if it appends we'll lose lot of time to manage
